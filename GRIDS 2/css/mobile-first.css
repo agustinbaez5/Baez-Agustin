@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+	box-sizing: border-box;
+}
+
+.one{
+	background-color: pink;
+}
+.two{
+	background-color: grey;
+}
+.three{
+	background-color: violet;
+}
+.four{
+	background-color: palevioletred;
+}
+.five{
+	background-color: deeppink;
+}
+
+/* 1er breakpoint */
+
+/* 2do breakpoint */
+
+/* min y max */

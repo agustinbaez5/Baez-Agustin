@@ -1,0 +1,4 @@
+https://www.svgrepo.com/
+
+Bootstrap
+https://icons.getbootstrap.com/
